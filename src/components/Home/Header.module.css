@@ -1,0 +1,19 @@
+.whole_header {
+  background: #1f3655;
+  height: 119px;
+  border-radius: 24px;
+  margin-left: 44px;
+  margin-right: 44px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  margin-left: 44px;
+  color: "white";
+}
+
+.lang_chat {
+  margin-right: 44px;
+  color: "white";
+  display: flex;
+}
